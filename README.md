@@ -5,7 +5,7 @@ ReactComponents
 
 
 ##组件列表
-####button
+####Button组件
 （1）能够通过props中的component自定义具体的dom元素，默认为button。<br>
 （2）能够通过props中的classn自定义具体的className。<br>
 （3）能够通过props中的active自定义是否激活。<br>
@@ -13,3 +13,11 @@ ReactComponents
 （5）能够通过props中的disbled自定义是否能够点击。<br>
 （6）能够通过props中的target自定义渲染A标签或者Button标签。<br>
 具体可以看[博客](http://www.jianshu.com/p/c21d8bbd0a54)
+####Box组件
+（1）能够通过props中的tittle，自定义具体的dom元素是否渲染标签dom（h2）。<br>
+（2）能够通过props中的header，自定义具体的dom元素是否渲染header部分，在不渲染tittle情况下（h2）。<br>
+（3）能够通过props中的footer，自定义具体的dom元素渲染页脚。<br>
+（4）能够通过props中的classOuterBox，自定义具体的外层className。<br>
+（4）能够通过props中的classTittle与classInnerBox，自定义具体的
+具体可以看[博客](http://www.jianshu.com/p/99e8a8a897d0)
+####Slider轮播组件
