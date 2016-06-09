@@ -21,3 +21,15 @@ ReactComponents
 （4）能够通过props中的classTittle与classInnerBox，自定义具体的
 具体可以看[博客](http://www.jianshu.com/p/99e8a8a897d0)
 ####Slider轮播组件
+（1）能够通过props中的interval，自定义具体轮播间隔时间。<br>
+（2）能够通过props中的autoPlay，自定义轮播是否自动运行。<br> 
+（3）能够通过props中的activeIndex，自定义轮播从哪张图片开始运行。<br> 
+（4）能够通过props中的DefaultActiveIndex，自定义轮播默认从哪张图片开始运行。<br> 
+（5）能够通过props中的direction，自定义轮播默认转动方向。<br> 
+（6）能够通过props中的number，自定义轮播默认图片个数。<br> 
+（7）能够通过props中的boxStyle，自定义轮播默认外层div样式。<br> 
+####link组件
+
+
+
+
