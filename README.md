@@ -28,6 +28,7 @@ ReactComponents
 （5）能够通过props中的direction，自定义轮播默认转动方向。<br> 
 （6）能够通过props中的number，自定义轮播默认图片个数。<br> 
 （7）能够通过props中的boxStyle，自定义轮播默认外层div样式。<br> 
+具体可以看[博客](http://www.jianshu.com/p/a7c363913f1c)
 ####link组件
 
 
